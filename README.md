@@ -13,7 +13,7 @@ Senior Artificial Intelligence Scientist
 
 Johnson Controls
 
-Alexander E. Cohen
+- Alexander E. Cohen
 
 https://scholar.google.com/citations?user=89drxM4AAAAJ&hl=en&oi=ao
 

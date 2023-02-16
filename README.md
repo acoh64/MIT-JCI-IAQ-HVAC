@@ -6,6 +6,7 @@ As a part of a MIT-JCI collaboration, a large data set of IAQ-HVAC data was coll
 
 ## Creators
 Michael Risbeck
+
 https://orcid.org/0000-0003-0889-200X
 Senior Artificial Intelligence Scientist
 Johnson Controls

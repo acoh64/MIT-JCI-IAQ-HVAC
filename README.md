@@ -5,41 +5,41 @@ This repository contains the indoor air quality (IAQ) and heating, ventilation, 
 As a part of a MIT-JCI collaboration, a large data set of IAQ-HVAC data was collected in various spaces on the MIT campus. This data was used to test models of airborne disease transmission and analyze building operating modes to balance transmission rates with energy consumption.
 
 ## Creators
-Michael Risbeck
+- Michael Risbeck
 
-https://orcid.org/0000-0003-0889-200X
+  - https://orcid.org/0000-0003-0889-200X
 
-Senior Artificial Intelligence Scientist
+  - Senior Artificial Intelligence Scientist
 
-Johnson Controls
+  - Johnson Controls
 
 - Alexander E. Cohen
 
   - https://scholar.google.com/citations?user=89drxM4AAAAJ&hl=en&oi=ao
 
-Graduate Student, Dunkel and Bazant Groups (Physical Applied Math)
+  - Graduate Student, Dunkel and Bazant Groups (Physical Applied Math)
 
-Massachusetts Institute of Technology
+  - Massachusetts Institute of Technology
 
-Jon D. Douglas
+- Jon D. Douglas
 
-Director of Healthy Buildings Services and Solutions, ASHRAE Member
+  - Director of Healthy Buildings Services and Solutions, ASHRAE Member
 
-Johnson Controls
+  - Johnson Controls
 
-Young M. Lee
+- Young M. Lee
 
-Distinguished Fellow and Senior Director of Artificial Intelligence Product Development, ASHRAE Member
+  - Distinguished Fellow and Senior Director of Artificial Intelligence Product Development, ASHRAE Member
 
-Johnson Controls
+  - Johnson Controls
 
-Martin Z. Bazant
+- Martin Z. Bazant
 
-https://www.mit.edu/~bazant/
+  - https://www.mit.edu/~bazant/
 
-E. G. Roos (1944) Professor of Department of Chemical Engineering and Professor of Applied Mathematics
+  - E. G. Roos (1944) Professor of Department of Chemical Engineering and Professor of Applied Mathematics
 
-Massachusetts Institute of Technology
+  - Massachusetts Institute of Technology
 
 ## Dates
 The data set was collected during April 2022.

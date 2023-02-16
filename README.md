@@ -15,7 +15,7 @@ Johnson Controls
 
 - Alexander E. Cohen
 
-https://scholar.google.com/citations?user=89drxM4AAAAJ&hl=en&oi=ao
+-- https://scholar.google.com/citations?user=89drxM4AAAAJ&hl=en&oi=ao
 
 Graduate Student, Dunkel and Bazant Groups (Physical Applied Math)
 

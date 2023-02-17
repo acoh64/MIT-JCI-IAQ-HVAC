@@ -1,4 +1,4 @@
-# MIT-IAQ-HVAC
+# MIT-JCI-IAQ-HVAC
 This repository contains the indoor air quality (IAQ) and heating, ventilation, and air-conditioning (HVAC) time series data used in the paper "Data-driven control of airborne disease transmission and energy use in university buildings" (include citation and link)
 
 ## Description

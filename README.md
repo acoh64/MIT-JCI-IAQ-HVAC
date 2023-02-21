@@ -101,7 +101,7 @@ The room parameter file `room_parameters.csv` contains the following columns:
 
 The "Name" column in this table correspond to the names in the timeseries data files.
 
-# Timeseries Room Data Details
+### Timeseries Room Data Details
 Timeseries room data was collected by a mix of in-room Kaiterra sensors, measurements taken by the BMS, and manually counted or imputed occupancy counts. 
 Within each room dataset, the following columns were collected by the deployed Kaiterra sensors:
 - CO₂ Concentration (ppm)
@@ -139,13 +139,13 @@ We provide these values for convenience and note that alternative occupancy-esti
 In the raw data files for Classroom 1 and Office, there are also periods where occupancy was manually counted.
 For other spaces, the raw occupancy data is completely empty.
 
-# Timeseries Weather Data Details
+### Timeseries Weather Data Details
 To collect weather data, two QuantAQ sensors were deployed on roofs of monitored buildings.
 Unfortunately, these sensors were placed in areas receiving significant direct sunlight, which led to unrealistically high temperature measurements (upwards of 90 °F many afternoons).
 Thus, we have instead opted to use data collected from a nearby weather station.
 Values in the raw file are the hourly values reported from the weather station, while the values in the clean file are linearly interpolated to match the sample rate of the other timeseries data.
 
-# Room Parameter Details
+### Room Parameter Details
 During sensor installation, "Ceiling Height" for each room was measured using a laser distance meter.
 For spaces with variable height, the value is a rough average.
 "Design Occupancy" was estimated by counting seats in the room.

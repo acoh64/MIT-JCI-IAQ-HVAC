@@ -41,6 +41,9 @@ As a part of a MIT-JCI collaboration, a large data set of IAQ-HVAC data was coll
 
   - Massachusetts Institute of Technology
 
+## Recommended Citation
+This will be updated once the manuscript is accepted for publication.
+
 ## Dates
 The data set was collected during April 2022.
 
@@ -157,13 +160,10 @@ For spaces with variable height, the value is a rough average.
 "Assumed Maximum Ventilation" was generally estimated based on expected design heat loads, with some manual adjustments to match measured data.
 
 ## Jupyter Notebook Overview
-
-## Methodology
+For convenience, we have provided a Jupyter notebook which shows how to visualize different variables in the data set.
 
 ## Keywords
 COVID-19, airborne transmission, IAQ, HVAC, healthy buildings, energy consumption
-
-## Rights
 
 ## Acknowledgements
 We thank Ye Li from MIT Libraries for helping set up this data repository.

@@ -1,0 +1,12 @@
+Name,Area (ft^2),Ceiling Height (ft),Design Occupancy (#),Assumed Peak Occupancy (#),Mean Ventilation (ACH),ASHRAE Minimum Ventilation (ACH),Assumed Maximum Ventilation (ACH),In-Zone Filtration (ACH)
+Classroom 1,733.59,10.67,47,33,6.20895,4.27752,9.68161,0
+Classroom 2,436.81,10.67,23,16,5.79304,3.63568,8.07701,0
+Classroom 3,859.69,9.8,38,27,0.997037,3.44094,7.5003,4.52228
+Classroom 3*,859.69,9.8,38,27,0.997037,3.44094,7.5003,0
+Classroom 4,900.79,10.67,53,37,3.74554,3.98335,8.94619,0
+Conference Room,436.81,10.67,16,11,3.86203,2.73454,7.2802,0
+Lecture Hall 1,1817.92,10,120,60,4.29062,3.33043,9.73259,0
+Lecture Hall 2,1860.82,13.1,128,64,6.89182,2.63772,7.7276,0
+Office,910.3,10.67,15,8,3.08868,1.60139,5.98259,0
+Small Office 1,215.28,10.67,4,2,5.22412,1.71961,6.5737,0
+Small Office 2,215.28,10.67,4,4,5.22412,1.71961,6.5737,0
